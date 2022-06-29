@@ -39,5 +39,14 @@ pag.moveTo(900,400)
 #releases the left click
 pag.mouseUp()
 
+#Keyboard functions
+pag.write("hey all")
+#goes to next line
+pag.press("enter")
+#space
+pag.press("space")
+
+#screenshot
+pag.screenshot("screenshot.png")
 
 
